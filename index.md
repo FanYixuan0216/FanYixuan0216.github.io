@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="360" height="480">
+<img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="320" height="480">
 
 Here is **Yixuan Fan (樊奕宣)**.
 
