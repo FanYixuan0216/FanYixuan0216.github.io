@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 关于我
+# 自我介绍
 
 <img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="320" height="480">
 
