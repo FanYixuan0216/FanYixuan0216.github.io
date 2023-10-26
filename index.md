@@ -18,7 +18,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2021 - June 2024:** Shandong University
+- **Sep 2021 - June 2024:**
+
+- Shandong University
 
 <br>
 
