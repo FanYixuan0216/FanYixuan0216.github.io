@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2021 - June 2024:**
 
-- Shandong University
+  Shandong University
 
 <br>
 
