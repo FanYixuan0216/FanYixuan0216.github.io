@@ -2,36 +2,36 @@
 layout: page
 ---
 
-# About Me
+# 关于我
 
 <img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="320" height="480">
 
-Here is **Yixuan Fan (樊奕宣)**.
+我是 **樊奕宣**.
 
-I am a junior student studying at the School of Information Science and Engineering(Micro-nano Optoelectronic Science and Technology Experimental Class), Shandong University in China, supervised by Prof. Zhi Liu.
+我是山东大学信息科学与工程学院（微纳光电科学与技术实验班）的大三学生，导师是刘治教授。
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *202100120201@sdu.edu.cn*
+如果您对我的任何方面感兴趣，请发送电子邮件至 *202100120201@sdu.edu.cn* ，期待和您的交流！
 
 <br>
 
-## Academic Background
+## 学术背景
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> 我希望申请于2025年秋季开始的硕士或直博名额。如果您有任何线索，请与我联系！**
 
-- **Sep 2021 - June 2024:**
+- **2021.09 - 2024.06:**
 
-  Shandong University
+  山东大学
 
 <br>
 
 ---
 
-## Research Interests
+## 研究兴趣
 
-- Optoelectronic devices
-- Machine Learning
+- 光电器件
+- 人工智能
 
-My current research focuses on practical problems that use an optical motion capture device to assist with cardiac ultrasound. My undergraduate studies focused on semiconductor physics and the theory of optoelectronic devices. My interests are on the **Machine Learning** and **Optoelectronic devices** though they are quite different. I believe that whether it is the integration of medicine and engineering or the study of micro-nano devices, it will contribute to the development of society. I wish to devote my talent to this meaningful cause and bring well-being to society.
+我目前的研究重点是解决使用光学运动捕捉设备辅助心脏超声的实际问题。我的本科学习重点是半导体物理学和光电器件理论方面的可成。我比较感兴趣的方向是人工智能方向和光电器件方向，尽管它们有很大的不同。相信无论是对于医工融合还是微纳器件的研究，都将为社会的发展做出贡献。我希望将自己的才能奉献给这项有意义的事业，为国家和社会贡献出属于自己的力量。
 
 <br>
 
