@@ -37,15 +37,15 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 自我介绍
     url: /
-  - title: Projects
+  - title: 科研项目
     url: /projects/
   - title: 学生荣誉
     url: /awards/
-  - title: Works
+  - title: 学生工作
     url: /works/
-  - title: Hobbies
+  - title: 兴趣爱好
     url: /hobbies/
   - title: Blogs
     url: /blogs/
