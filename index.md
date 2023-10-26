@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="320" height="480">
 
-我是 **樊奕宣**.
+我是 **樊奕宣**。
 
 我是山东大学信息科学与工程学院（微纳光电科学与技术实验班）的大三学生，导师是刘治教授。
 
