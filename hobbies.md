@@ -42,5 +42,5 @@ title: 兴趣爱好
 <br>
 我非常非常喜欢 Taylor Swift ！！！她的音乐和成长历程给了我向上的力量。最后，用一句taytay的歌词结尾吧！
 
-I promise that you'll never find another like meeeeeee!谢谢你的观看！
+<br>I promise that you'll never find another like meeeeeee!谢谢你的观看！
 
