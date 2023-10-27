@@ -1,12 +1,30 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /works/index.html
+title: 社会服务
 ---
 
-Lastest Update: 20th Oct 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+# 社会服务
 
-## Conference Paper
+## 学生工作
+
+**2021级微纳班团支书**<br>
+<div class="third">
+<img src="/images/prelection1.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
+</div>
+<br>2023年，21级微纳团支部被评为一级团支部，我带领支部进行了“我们的二十大”支部创新立项，组织了20、21级微纳班交流联谊会、崂山团建、市北区万达团建及六次团日活动。<br><br>
+
+**2022-2023学年信息学院学生会新闻宣传部部长**<br>
+<div class="third">
+<img src="/images/prelection1.JPG">
+<img src="/images/speech1.JPG">
+<img src="/images/speech3.JPG">
+</div>
+<br>一年内，部门共发表179篇新闻稿件，进行39次摄影记录，6次专访，发表303篇推文，制作40余张海报及近200张任职证明，举办4次活动，在学生会任职的两年内，我全程参与了信息学院小青团的提出、策划及形象绘制，如今，信息学院小青团已成为了信息学院学生会思想引领类活动的品牌形象。
+
+
 
 - [BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://www.researchgate.net/publication/373902807_BLEGuard_Hybrid_Detection_Mechanism_for_Spoofing_Attacks_in_Bluetooth_Low_Energy_Networks_Student_Abstract)<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence (AAAI 2024)<br>(Under Review) Vancouver, Canada. February, 2024.
 
