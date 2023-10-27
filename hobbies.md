@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: 兴趣爱好
 ---
 
-# 兴趣爱好
+# 兴趣爱好<br>
 
 ## PS & SAI
 
@@ -40,9 +40,7 @@ title: 兴趣爱好
 <img src="/images/meimei2.jpg">
 </div>
 <br>
-我非常非常喜欢**Taylor Swift**！！！
-
-她的音乐和成长历程给了我向上的力量。<br>
+我非常非常喜欢 Taylor Swift ！！！她的音乐和成长历程给了我向上的力量。<br>
 
 最后，用一句taytay的歌词结尾吧！
 
