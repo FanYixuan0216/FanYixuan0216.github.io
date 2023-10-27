@@ -29,7 +29,7 @@ title: 社会服务
 
 **踔厉奋发，信益求新科技研学宣讲团**
 <div class="third">
-<img src="/images/buzhang1.jpg">
+<img src="/images/shehuishijian1.jpg">
 </div>
 <br>我们是基于电子信息类专业知识的知识调研与科普团队。实践期间，小组成员每日于“信益求信”公众号上发表科普小文章，并展开了线上线下相结合的宣讲共七次。<br><br>
 
@@ -37,7 +37,8 @@ title: 社会服务
 
 
 <div class="third">
-<img src="/images/buzhang1.jpg">
+<img src="/images/zhiyuan1.jpg">
+<img src="/images/zhiyuan2.jpg">
 </div>
 <br>我积极参与校内外多项社会实践活动，如第十八届中国模拟联合国大赛、山东大学运动会等，校内志愿时长230＋小时。
 <br>
