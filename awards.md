@@ -4,8 +4,8 @@ permalink: /awards/index.html
 title: 学生荣誉
 ---
 
-Lastest Update: 27th Aug 2023<br>
-<font color='grey'>(奖项按照国家级-省级-校级-院级排列)</font>
+# 学生荣誉
+<font color='grey'>奖项按照国家级-省级-校级-院级排列</font><br>
 
 ## 奖学金
 
