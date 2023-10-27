@@ -9,15 +9,15 @@ title: 社会服务
 
 ## 学生工作
 
-**2021级微纳班团支书**<br>
+<br>**2021级微纳班团支书**<br>
 <div class="third">
 <img src="/images/tuanzhishu1.jpg">
 <img src="/images/tuanzhishu2.jpg">
 <img src="/images/tuanzhishu3.jpg">
 </div>
-<br>2023年，21级微纳团支部被评为一级团支部，我带领支部进行了“我们的二十大”支部创新立项，组织了20、21级微纳班交流联谊会、崂山团建、市北区万达团建及六次团日活动。<br><br>
+<br>2023年，21级微纳团支部被评为一级团支部，我带领支部进行了“我们的二十大”支部创新立项，组织了20、21级微纳班交流联谊会、崂山团建、市北区万达团建及六次团日活动。<br>
 
-**2022-2023学年信息学院学生会新闻宣传部部长**<br>
+<br>**2022-2023学年信息学院学生会新闻宣传部部长**<br>
 <div class="third">
 <img src="/images/buzhang1.jpg">
 <img src="/images/buzhang2.jpg">
