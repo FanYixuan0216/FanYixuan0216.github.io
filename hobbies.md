@@ -36,8 +36,8 @@ title: 兴趣爱好
 
 ## 我的偶像
 <div>
-<img src="/images/meimei1.jpg">
-<img src="/images/meimei2.jpg">
+<img src="/images/taytay1.jpg">
+<img src="/images/taytay2.jpg">
 </div>
 <br>
 我非常非常喜欢 Taylor Swift ！！！她的音乐和成长历程给了我向上的力量。最后，用一句taytay的歌词结尾吧！
