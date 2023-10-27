@@ -4,7 +4,7 @@ layout: page
 
 # 自我介绍
 
-<img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="320" height="480">
+<img src="https://FanYixuan0216.github.io/fanyixuan.jpg" class="floatpic" width="320" height="480"><br>
 
 <br>您好！我叫 **樊奕宣**。
 
