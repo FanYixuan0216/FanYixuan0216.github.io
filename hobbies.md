@@ -9,8 +9,8 @@ title: 兴趣爱好
 ## PS & SAI
 
 <div class="third">
-<img src="/images/ps1.jpg">
 <img src="/images/ps2.jpg">
+<img src="/images/ps1.jpg">
 <img src="/images/ps3.jpg">
 </div>
 <br>这是两个我非常喜欢的电脑软件！PS可以用于制作海报和处理图片，SAI是电脑画画的软件。这两个软件从小学陪伴我到现在，我享受通过排版和构图制作成一张张精致舒服的海报的感觉，也沉浸于用色彩和线条填充想象的时刻。上面是我的一些作品。<br>
@@ -40,9 +40,7 @@ title: 兴趣爱好
 <img src="/images/meimei2.jpg">
 </div>
 <br>
-我非常非常喜欢 Taylor Swift ！！！她的音乐和成长历程给了我向上的力量。<br>
-
-最后，用一句taytay的歌词结尾吧！
+我非常非常喜欢 Taylor Swift ！！！她的音乐和成长历程给了我向上的力量。最后，用一句taytay的歌词结尾吧！
 
 I promise that you'll never find another like meeeeeee!谢谢你的观看！
 
