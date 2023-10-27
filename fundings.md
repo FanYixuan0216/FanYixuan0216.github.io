@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /projects/index.html
-title: 专业实践
+title: 学科实践
 ---
 
-# 专业实践
+# 学科实践
 
 ## 基于FPGA的电子闹钟设计
 利用FPGA板和vivado编程，可于板上操作实现设置闹钟时间、设置时间和响铃一分钟的功能。
