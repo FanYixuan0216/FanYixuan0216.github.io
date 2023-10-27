@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/index.html
+permalink: /studies/index.html
 title: 学科实践
 ---
 
