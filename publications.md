@@ -9,7 +9,7 @@ title: 社会服务
 
 ## 学生工作
 
-<br>**2021级微纳班团支书**<br>
+**2021级微纳班团支书**<br>
 <div class="third">
 <img src="/images/tuanzhishu1.jpg">
 <img src="/images/tuanzhishu2.jpg">
